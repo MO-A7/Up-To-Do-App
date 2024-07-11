@@ -61,7 +61,7 @@
 
 https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
 
-## 🛠 Dependencies
+##  Dependencies
 
 ```pubspec.yaml
   date_picker_timeline: 
