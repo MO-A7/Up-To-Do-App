@@ -1,34 +1,34 @@
-# ✔️ Up To Do App
+#  Up To Do App
 
 <div align="start">
-     <a href="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
-        <img src="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
+     <a href="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
+        <img src="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/mohamed-aymen-596a161a3/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="mailto:abo145207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+<!--     <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     <a href="https://mostaql.com/u/ammarageeza/portfolio">
+  </a> -->
+<!--      <a href="https://mostaql.com/u/ammarageeza/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+  </a> -->
      </a>
-     <a href="https://t.me/ammarageeza">
+     <a href="https://t.me/MOA_77">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
-## 🚀 Getting Started
+##  Getting Started
 
 - Up-To-Do App is designed to help users organize their tasks efficiently and stay productive throughout their day. Whether it's managing daily tasks, work assignments, or personal goals.
 - App notifies the user of the task before starting using `flutter_local_notifications`.
-- Our App reminds users every day at 9 PM ⏰to write tasks for tomorrow.
+- Our App reminds users every day at 9 PM to write tasks for tomorrow.
 
-## 🤳 Screens
+##  Screens
 
 - **Splash Screen:** Wait for 3 seconds then navigate to `On-Boarding Screens`. 
 - **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
@@ -38,7 +38,7 @@
 <hr>
 <h3>
   <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
-    👨🏻‍🎓 Get this app on YouTube Playlist Tutorials
+     Get this app on YouTube Playlist Tutorials
   </a>
 </h3>
 <p align= "center">
@@ -49,17 +49,15 @@
   </a>
 
 
-## 📁 File Structure
 
-![image](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
 
-## 📱 UI
+##  UI
 
 ![2](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
 
 ![3](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
 
-## 🎥 Video
+##  Video
 
 https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
 
@@ -82,7 +80,7 @@ https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9
   workmanager: 
 ```
 
-## ☢️ Usage
+##  Usage
 
 1. **Clone the repository**
 
@@ -99,9 +97,9 @@ https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9
     flutter run
     ```
 
-## 🚨 Contributing
+##  Contributing
 
-- Contributions are welcome 💜
+- Contributions are welcome 
 - If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 #
