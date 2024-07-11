@@ -1,75 +1,85 @@
-# 🛒 Moshtriat
+# ✔️ Up To Do App
 
 <div align="start">
-     <a href="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
-        <img src="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
+     <a href="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
+        <img src="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/mohamed-elbaz-7774841b6/" target="_blank">
+    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:aboelbaz611@gmail.com">
+  <a href="mailto:ammarfathy516@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-<!--     <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> -->
-<!--      <a href="https://mostaql.com/u/ammarageeza/portfolio">
+  </a>
+     <a href="https://mostaql.com/u/ammarageeza/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a> -->
+  </a>
      </a>
-     <a href="https://t.me/aboelbaz50">
+     <a href="https://t.me/ammarageeza">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
 ## 🚀 Getting Started
 
-- Moshtriat is a simple e_commerce app .
-- Our App allow you to make account.
-- Our app allow you to see products and but it in favorite.
+- Up-To-Do App is designed to help users organize their tasks efficiently and stay productive throughout their day. Whether it's managing daily tasks, work assignments, or personal goals.
+- App notifies the user of the task before starting using `flutter_local_notifications`.
+- Our App reminds users every day at 9 PM ⏰to write tasks for tomorrow.
 
 ## 🤳 Screens
 
 - **Splash Screen:** Wait for 3 seconds then navigate to `On-Boarding Screens`. 
 - **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
-- **Home Screen:** The User can discover all products.
-- **Profile Screen :**  The User can see his profile and edit it .
-- **Search Screen :**  The User can search about any product .
+- **Home Screen:** The User can discover all tasks that he added before and can change the status to `COMPLETED` or `DELETED`.
+- **Add Task:** User can add task details like `title`, `note`, `date`, `start time`, and `end time`.
 
 <hr>
 <h3>
-<!--   <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
+  <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
     👨🏻‍🎓 Get this app on YouTube Playlist Tutorials
-  </a> -->
+  </a>
 </h3>
-<!-- <p align= "center">
+<p align= "center">
     <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
      <kbd>
-        <img  src="https://github.com/AmmarAgeeza/Moshtriat/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
+        <img  src="https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
      </kbd>
-  </a> -->
+  </a>
 
 
+## 📁 File Structure
+
+![image](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
 
 ## 📱 UI
-![Untitled design (2)](https://github.com/mohamedelbaz50/shop_app/assets/71174933/3536f510-5c8d-49a8-a3f8-d2c5ce5013a6)
-![3](https://github.com/mohamedelbaz50/shop_app/assets/71174933/1273af6c-5184-416e-ae3e-6f6208e43c75)
-![Untitled design (3)](https://github.com/mohamedelbaz50/shop_app/assets/71174933/50a0b359-d056-41e8-8610-c2eff4bc1007)
 
+![2](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
 
+![3](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
 
+## 🎥 Video
 
+https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
 
 ## 🛠 Dependencies
 
 ```pubspec.yaml
- smooth_page_indicator: 
+  date_picker_timeline: 
   flutter_bloc: 
-  dio: 
-  conditional_builder_null_safety: 
+  flutter_screenutil: 
   fluttertoast: 
+  get_it: 
+  google_fonts: 
+  intl: 
   shared_preferences: 
-  carousel_slider: 
+  smooth_page_indicator: 
+  sqflite: 
+  flutter_local_notifications: 
+  timezone: 
+  flutter_timezone: 
+  workmanager: 
 ```
 
 ## ☢️ Usage
